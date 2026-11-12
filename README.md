@@ -22,7 +22,7 @@ Demostrar gestión de configuración, requisitos, trazabilidad, planificación d
 - **Médicos:** consultar su agenda de citas, como contexto del sistema; esta consulta no se detalla en los cinco RF de esta entrega.
 - **Administradores:** administrar horarios médicos.
 
-## Equipo y responsabilidades
+
 
 ## Equipo y responsabilidades
 
