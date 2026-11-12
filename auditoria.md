@@ -1,48 +1,51 @@
-# Registro de auditoría de MediGest
+# Informe de Auditoría de Calidad – MediGest
 
-**Instituto i3 · Módulo de Calidad del Software (SQA) · Sesión 6**
+**Institución:** Instituto i3  
+**Módulo:** Calidad del Software (SQA)  
+**Sesión:** 6  
+**Fecha:** 11 de noviembre de 2026 (fecha de los commits revisados)  
+**Auditor:** Camilo Andrés Amaya Cortazar  
+**Repositorio:** https://github.com/Sinapzis07/MediGest
 
-Plantilla pendiente de completar con cambios y evidencias reales de GitHub. No constituye una auditoría realizada ni certifica aprobación. Duplicar las filas necesarias dentro de este documento.
+## 1. Objetivo
 
-## Identificación
+Verificar la documentación y trazabilidad de cambios de MediGest mediante el historial de commits, ramas y Pull Requests de GitHub.
 
-| Campo | Valor |
-|---|---|
-| Fecha de auditoría | Pendiente |
-| Responsable de la auditoría | [Jessica Patricia; confirmar responsable efectivo] |
-| Integrantes participantes | [Juan Camilo Becerra Peña], [Laura Camila Calderon], [Jessica Patricia ] |
-| Repositorio y rama revisada | Pendiente de referencia real |
-| Alcance | README.md, requisitos.md, plan-pruebas.md y auditoria.md |
-| Línea base o versión revisada | Pendiente de commit real |
+## 2. Registro de cambios
 
-## Registro de cambios y evidencias
-
-| ID de cambio | Documento y sección | Cambio realizado y motivo | RF/RNF/CP afectados | Autor del cambio | Identificador del commit | Fecha del commit | Pull Request asociado | Revisor | Estado de revisión | Evidencia |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
-
-Usar el hash y fecha exactos de GitHub y el enlace real al PR y a su revisión. Si no existe un PR, registrar «No aplica» con el motivo, sin inventarlo. El autor del cambio y el revisor deben identificarse a partir de registros reales. Una propuesta de cambio no es un cambio aprobado.
-
-## Lista de verificación documental
-
-| Control | Estado | Evidencia u observación |
+| Usuario | Cambio realizado | Commit |
 |---|---|---|
-| Los cuatro documentos están presentes y sus enlaces funcionan. | Pendiente | Pendiente |
-| Los requisitos tienen IDs únicos, prioridades y criterios verificables. | Pendiente | Pendiente |
-| CP-01 a CP-05 se relacionan con RF-01 a RF-05 y no declaran ejecución ficticia. | Pendiente | Pendiente |
-| Las limitaciones de cobertura de los RNF están declaradas. | Pendiente | Pendiente |
-| Los cambios tienen autor, commit, fecha y revisión verificables. | Pendiente | Pendiente |
-| El revisor es distinto del autor; cualquier excepción está declarada. | Pendiente | Pendiente |
-| Solo se incluye documentación, sin aplicación ni datos sensibles. | Pendiente | Pendiente |
+| lauracalderonespana-pixel | Actualización del README | 577f7b9 |
+| jesicapatricia093-art | Actualización de RF-06 | ae0af22 |
+| panaderiadepan | Creación del caso CP-06 | 3fe4c92 |
+| panaderiadepan | Corrección del caso CP-06 | 2b92dd0 |
+| panaderiadepan | Integración del PR #1 | b3d15c1 |
 
-## Hallazgos y cierre
+**Fecha de los commits anteriores:** 11/11/2026.
 
-| Hallazgo | Acción correctiva | Responsable | Fecha objetivo | Estado | Evidencia de cierre |
-|---|---|---|---|---|---|
-| Pendiente | Pendiente | Pendiente | Pendiente | Pendiente | Pendiente |
+**Nota:** La participación de los demás usuarios y las fechas exactas de revisión deben comprobarse en el historial completo.
 
-**Conclusiones:** Pendientes de una auditoría efectiva y sus evidencias.
+## 3. Revisión del Pull Request
 
-**Decisión sobre la línea base:** Pendiente de revisión y aprobación reales.
+- **PR:** #2 – Mejora de plan de pruebas.
+- **Autor:** panaderiadepan.
+- **Revisor:** Camilo Andrés Amaya Cortazar.
+- **Resultado:** Aprobación registrada en GitHub.
+- **Integración:** Fusionado en main, según confirmación del equipo.
+- **Evidencia:** https://github.com/Sinapzis07/MediGest/pull/2
 
-**Limitaciones o conflictos de autoría/revisión:** Pendientes de declaración.
+## 4. Hallazgos de calidad
+
+- Se identificaron cambios documentales en los requisitos y casos de prueba.
+- Se revisó la relación entre RF-06 y CP-06.
+- Se detectaron y resolvieron conflictos documentales entre ramas.
+- El historial permite identificar autores y cambios realizados.
+- Debe comprobarse la participación de los cinco integrantes antes del cierre definitivo.
+
+## 5. Conclusión
+
+La auditoría documental permitió identificar modificaciones, responsables y evidencias de control de versiones en GitHub.
+
+Se registró la revisión de un Pull Request por un integrante diferente de su autor y se resolvieron conflictos antes de su integración.
+
+El proyecto es exclusivamente académico y documental. No se desarrolló una aplicación ni se ejecutaron pruebas funcionales.
