@@ -4,17 +4,18 @@
 
 Proyecto académico exclusivamente documental sobre un sistema propuesto para organizar citas médicas. No contiene aplicación, frontend, backend ni base de datos; tampoco acredita funcionalidades implementadas o pruebas ejecutadas.
 
-## Objetivo general
+## Objetivo General
 
 Demostrar gestión de configuración, requisitos, trazabilidad, planificación de pruebas y auditoría mediante documentos coherentes y un flujo de control de versiones en GitHub.
 
-## Funcionalidades propuestas
+## Funcionalidades Propuestas
 
 1. Consultar disponibilidad de médicos (RF-01).
 2. Reservar una cita médica (RF-02).
 3. Reprogramar una cita propia (RF-03).
 4. Cancelar una cita propia (RF-04).
 5. Administrar horarios médicos (RF-05).
+6. Implementar sección de datos del paciente (RF-06).
 
 ## Usuarios del sistema propuesto
 
