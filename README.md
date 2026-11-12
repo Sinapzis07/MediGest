@@ -24,13 +24,17 @@ Demostrar gestión de configuración, requisitos, trazabilidad, planificación d
 
 ## Equipo y responsabilidades
 
-| Integrante | Nombre editable | Rol | Responsabilidad |
-|---|---|---|---|
-| 1 | [Nombre del integrante 1] | Líder del proyecto | Coordinar alcance, coherencia y aprobación de entregables. |
-| 2 | [Nombre del integrante 2] | Responsable de documentación | Elaborar y mantener los documentos. |
-| 3 | [Nombre del integrante 3] | Gestor de cambios y auditor SQA | Controlar versiones, registrar cambios y verificar trazabilidad. |
+## Equipo y responsabilidades
 
-Los roles del equipo son distintos de los roles de usuario del sistema. Quien revise un cambio debe ser distinto de su autor; si el auditor es autor, otro integrante realizará la revisión.
+| Integrante | Nombre | Rol | Responsabilidad |
+|---|---|---|---|
+| 1 | [Juan Camilo Becerra Peña] | Líder del proyecto | Coordinar actividades y administrar el repositorio. |
+| 2 | [Laura Camila Calderon] | Documentador | Mantener el README y la documentación general. |
+| 3 | [Jessica Patricia] | Analista de requisitos | Definir y actualizar requisitos del sistema. |
+| 4 | [Juan Sebastian Ducuara] | Gestor de cambios | Gestionar ramas, commits y Pull Requests. |
+| 5 | [Camilo] | Auditor SQA | Revisar cambios y registrar evidencias de auditoría. |
+
+Cada integrante realizará al menos un commit desde su cuenta de GitHub. Los cambios propuestos mediante Pull Request serán revisados por una persona diferente de su autor.
 
 ## Documentos y trazabilidad
 
