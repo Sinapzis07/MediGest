@@ -13,7 +13,7 @@ Especificación propuesta, no implementada ni validada. Prioridad **Alta**: esen
 | RF-03 | Paciente | Reprogramar una cita propia activa. | Alta | Cambiarla a un horario disponible, liberar el anterior y confirmar el cambio. Si el destino está ocupado, conservar la cita original. Rechazar citas ajenas. | CP-03 |
 | RF-04 | Paciente | Cancelar una cita propia activa. | Alta | Marcarla como cancelada, liberar el horario y confirmar la operación. Rechazar una nueva cancelación de esa cita y cualquier intento sobre citas ajenas. | CP-04 |
 | RF-05 | Administrador | Crear, modificar y eliminar horarios médicos. | Alta | Permitirlo solo al administrador; rechazar intervalos solapados para un mismo médico y bloquear modificación o eliminación de horarios con citas activas. | CP-05 |
-|RF-06 | Doctor | Visualizar citas programadas y ver especialidad a la que fue asignada | CP-06 |
+|RF-06 | Doctor | Visualizar citas programadas y ver especialidad a la que fue asignada. | Alta | Asociar especialidad con el doctor | CP-06 
 ## Requisitos no funcionales
 
 | ID | Descripción | Prioridad | Criterios de aceptación propuestos | Validación |
