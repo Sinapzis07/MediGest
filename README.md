@@ -32,7 +32,7 @@ Demostrar gestión de configuración, requisitos, trazabilidad, planificación d
 | 2 | [Laura Camila Calderon] | Documentador | Mantener el README y la documentación general. |
 | 3 | [Jessica Patricia] | Analista de requisitos | Definir y actualizar requisitos del sistema. |
 | 4 | [Juan Sebastian Ducuara] | Gestor de cambios | Gestionar ramas, commits y Pull Requests. |
-| 5 | [Camilo] | Auditor SQA | Revisar cambios y registrar evidencias de auditoría. |
+| 5 | [Camilo NN] | Auditor SQA | Revisar cambios y registrar evidencias de auditoría. |
 
 Cada integrante realizará al menos un commit desde su cuenta de GitHub. Los cambios propuestos mediante Pull Request serán revisados por una persona diferente de su autor.
 
