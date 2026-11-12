@@ -9,8 +9,8 @@ Plantilla pendiente de completar con cambios y evidencias reales de GitHub. No c
 | Campo | Valor |
 |---|---|
 | Fecha de auditoría | Pendiente |
-| Responsable de la auditoría | [Nombre del integrante 3; confirmar responsable efectivo] |
-| Integrantes participantes | [Nombre del integrante 1], [Nombre del integrante 2], [Nombre del integrante 3] |
+| Responsable de la auditoría | [Jessica Patricia; confirmar responsable efectivo] |
+| Integrantes participantes | [Juan Camilo Becerra Peña], [Laura Camila Calderon], [Jessica Patricia ] |
 | Repositorio y rama revisada | Pendiente de referencia real |
 | Alcance | README.md, requisitos.md, plan-pruebas.md y auditoria.md |
 | Línea base o versión revisada | Pendiente de commit real |
