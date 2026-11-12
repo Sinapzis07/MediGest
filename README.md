@@ -20,7 +20,7 @@ Demostrar gestión de configuración, requisitos, trazabilidad, planificación d
 ## Usuarios del sistema propuesto
 
 - **Pacientes:** consultar disponibilidad y gestionar sus propias citas.
-- **Médicos:** consultar su agenda de citas, como contexto del sistema; esta consulta no se detalla en los cinco RF de esta entrega.
+- **Médicos:** consultar su agenda de citas, como contexto del sistema.
 - **Administradores:** administrar horarios médicos.
 
 
